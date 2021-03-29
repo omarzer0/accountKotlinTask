@@ -1,0 +1,1 @@
+data class Account(val accountNumber: Int, val ownerName: String, var balance: Double)
